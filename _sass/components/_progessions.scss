@@ -1,0 +1,9 @@
+.prog {
+  @extend .scale;
+  justify-content: flex-start;
+  
+  &--item {
+    width: calc(100%/7);
+    text-align: center;
+  }
+}

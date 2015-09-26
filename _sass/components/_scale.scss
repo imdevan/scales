@@ -1,0 +1,15 @@
+.scale {
+  font-family: 'Lora', cursive;
+  display: flex;
+  width: 100%;
+  max-width: 60rem;
+  margin: 3rem auto;
+  justify-content: center;
+  align-content:l center;
+  font-size: 2rem;
+  
+  &--item {
+    width: calc(100%/7);
+    text-align: center;
+  }
+}

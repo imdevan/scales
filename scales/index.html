@@ -1,0 +1,13 @@
+---
+title: Index Page
+layout: front-page
+---
+
+<main class="content">
+    <h1>Scales and Chords 🎼</h1>
+    <ul>
+    {% for scale in site.categories.scales %}
+         <h2><a href="">{{ scale.title }}</a></h2>
+    {% endfor %}
+    </ul>
+</main>
