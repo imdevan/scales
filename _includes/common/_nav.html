@@ -1,1 +1,6 @@
-nav
+<main class="content">
+    <h1>Scales and Chords 🎼</h1>
+    {% for scale in site.scales %}
+         <h2><a class="base--a" href="{{ scale.url }}">{{ scale.title }}</a></h2>
+    {% endfor %}
+</main>

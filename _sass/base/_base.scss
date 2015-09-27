@@ -1,0 +1,12 @@
+.base {
+    &--a {
+        color: $primary-text-color;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+        &:visited, &:focus {
+            color: $primary-text-color;
+        }
+    }
+}

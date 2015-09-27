@@ -1,7 +1,6 @@
 ---
 layout: scale_page
-title: "D#m"
-category: scales
+title: Cm
 scale: i ii&#176; III iv v VI VII
 common-progressions:
 - i VI VII
@@ -10,3 +9,5 @@ common-progressions:
 - i VI III VII
 - ii v i
 ---
+
+Content

@@ -18,6 +18,11 @@ paginate: 5
 # Style of permalinks
 permalink: /:categories/:title
 
+collections:
+  scales:
+    output: true
+    permalink: /scales/:path/
+
 gems: ['jekyll-sitemap']
 
 # pygments: true
