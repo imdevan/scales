@@ -1,7 +1,6 @@
 .nav {
-    width: 100%;
+    @extend %band;
     text-align: center;
-    margin: 7rem auto;
      
     &--item {
         margin: auto 1rem;

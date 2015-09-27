@@ -1,7 +1,5 @@
 .progressions {
-  width: 100%;
-  max-width: 60rem;
-  margin: 10rem auto 3rem auto;
+  @extend %band;
   
   &--title {
     font-size: 3rem;
