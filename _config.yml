@@ -21,7 +21,7 @@ permalink: /:categories/:title
 collections:
   scales:
     output: true
-    permalink: /scales/:path/
+    permalink: /:path/
 
 gems: ['jekyll-sitemap']
 
