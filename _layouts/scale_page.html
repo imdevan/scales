@@ -19,7 +19,7 @@ layout: default
 
 <div class="progressions">
     <div class="progressions--title">Common Progressions</div>
-    {% for item in page.progressions %}
+    {% for item in page.common-progressions %}
     <div class="prog">
         {% for progitem in item.prog %}
         <div class="prog--item">
@@ -29,3 +29,9 @@ layout: default
     </div>
     {% endfor %}
 </div>
+
+{% if page.notes %}
+<div class="notes">
+    {{page.notes}}
+</div>
+{% endif %}

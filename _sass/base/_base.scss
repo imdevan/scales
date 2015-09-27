@@ -1,3 +1,9 @@
+%band {
+    width: 90%;
+    max-width: 60rem;
+    margin: auto;
+}
+
 .base {
     &--a {
         color: $primary-text-color;

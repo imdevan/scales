@@ -1,6 +1,6 @@
 
 .header {
-  width: 100%;
+  @extend %band;
   text-align: center;
   padding: 3rem;
   

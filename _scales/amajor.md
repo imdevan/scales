@@ -17,7 +17,7 @@ chords:
     - E 
     - F#m 
     - G#&#176;
-progressions:
+common-progressions:
     - prog:
         - I
         - IV

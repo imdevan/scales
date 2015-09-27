@@ -1,8 +1,7 @@
 .scale {
+  @extend %band;
   font-family: 'Lora', cursive;
   display: flex;
-  width: 100%;
-  max-width: 60rem;
   margin: 3rem auto;
   justify-content: center;
   align-content:l center;
