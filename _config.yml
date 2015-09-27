@@ -8,7 +8,7 @@ description: "Website for IBM Community Radio"
 author: IBM Community Radio
 
 #url: "[http:// ]"
-url: "scales"
+url: "http://imdevan.github.io/scales"
 
 markdown: kramdown
 
