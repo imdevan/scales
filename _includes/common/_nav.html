@@ -1,5 +1,5 @@
 <nav class="nav">
     {% for scale in site.scales %}
-         <h2 class="nav--item"><a class="base--a" href="{{ scale.url }}">{{ scale.title }}</a></h2>
+         <h2 class="nav--item"><a class="base--a" href="{{ site.url }}/{{ scale.url }}">{{ scale.title }}</a></h2>
     {% endfor %}
 </nav>
