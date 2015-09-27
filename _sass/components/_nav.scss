@@ -1,9 +1,10 @@
 .nav {
     width: 100%;
     text-align: center;
-    margin-top: 7rem;
+    margin: 7rem auto;
      
     &--item {
+        margin: auto 1rem;
         display: inline-block;
     }
 }
