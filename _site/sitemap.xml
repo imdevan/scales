@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ibm.biz/ibm-radio/archives/</loc>
+    <loc>scales/archives/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/</loc>
+    <loc>scales/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/listpage/</loc>
+    <loc>scales/listpage/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/</loc>
+    <loc>scales/scales/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/amajor/</loc>
+    <loc>scales/scales/amajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/aminor/</loc>
+    <loc>scales/scales/aminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/bmajor/</loc>
+    <loc>scales/scales/bmajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/bminor/</loc>
+    <loc>scales/scales/bminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/cmajor/</loc>
+    <loc>scales/scales/cmajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/cminor/</loc>
+    <loc>scales/scales/cminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/dmajor/</loc>
+    <loc>scales/scales/dmajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/dminor/</loc>
+    <loc>scales/scales/dminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/emajor/</loc>
+    <loc>scales/scales/emajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/eminor/</loc>
+    <loc>scales/scales/eminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/fmajor/</loc>
+    <loc>scales/scales/fmajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/fminor/</loc>
+    <loc>scales/scales/fminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/gmajor/</loc>
+    <loc>scales/scales/gmajor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/scales/gminor/</loc>
+    <loc>scales/scales/gminor/</loc>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/bower_components/imagesloaded/test/index.html</loc>
+    <loc>scales/bower_components/imagesloaded/test/index.html</loc>
     <lastmod>2013-07-21T08:07:09-05:00</lastmod>
   </url>
   <url>
-    <loc>https://ibm.biz/ibm-radio/bower_components/sassy-maps/examples/index.html</loc>
+    <loc>scales/bower_components/sassy-maps/examples/index.html</loc>
     <lastmod>2014-06-03T09:49:55-05:00</lastmod>
   </url>
 </urlset>
