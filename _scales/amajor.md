@@ -17,17 +17,17 @@ chords:
     - E 
     - F#m 
     - G#&#176;
-common-progressions:
+progressions:
     - prog:
-        - I 
-        - IV 
+        - I
+        - IV
         - V
     - prog:
         - I
-        - vi 
-        - IV 
+        - vi
+        - IV
         - V
-    - prog: 
+    - prog:
         - ii
         - V
         - I

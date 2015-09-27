@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
-<h1 class="scale-page--title">{{ page.title }}</h1>
+<div class="header">
+    <h1 class="scale-page--title">{{ page.title }}</h1>
+</div>
 
 <div class="scale">
 {% for scaleitem in page.scale %}
@@ -16,12 +17,11 @@ layout: default
 {% endfor %}
 </div>
 
-<div class="common-progressions">
-    <div class="common-progressions--title">Common Progressions</div>
-
-    {% for prog in page.common-progressions %}
+<div class="progressions">
+    <div class="progressions--title">Common Progressions</div>
+    {% for item in page.progressions %}
     <div class="prog">
-        {% for progitem in prog %}
+        {% for progitem in item.prog %}
         <div class="prog--item">
             {{ progitem }}
         </div>
