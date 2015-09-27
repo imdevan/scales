@@ -5,10 +5,13 @@
   margin: 3rem auto;
   justify-content: center;
   align-content:l center;
-  font-size: 2rem;
   
   &--item {
     width: calc(100%/7);
     text-align: center;
   }
+  
+    @media screen and (max-width: 40rem) {
+      font-size: 2rem;
+    }
 }
